@@ -1,0 +1,10 @@
+## Integração
+- Utilizando o Spring OpenFeign, integre os serviços abaixo:
+- Documentação: https://funtranslations.com/api/
+- APIs:
+  - Dothraki API --> ok
+  - Yoda API --> ok
+  - Klingon API --> ok
+  - Romulan API --> ok
+  - Minion API --> ok
+- FOOAS https://www.foaas.com/
